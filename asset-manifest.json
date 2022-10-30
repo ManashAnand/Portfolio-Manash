@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Portfolio-Manash/static/css/main.5629387f.css",
+    "main.js": "/Portfolio-Manash/static/js/main.9dbe5232.js",
+    "static/media/me-about.jpg": "/Portfolio-Manash/static/media/me-about.4350b60a70dc2640b3f5.jpg",
+    "static/media/newsApp.JPG": "/Portfolio-Manash/static/media/newsApp.23517a6ff27a1313847f.JPG",
+    "static/media/Rush.JPG": "/Portfolio-Manash/static/media/Rush.95095d1251085ab87872.JPG",
+    "static/media/me.png": "/Portfolio-Manash/static/media/me.b36109f08a261c176edc.png",
+    "static/media/WeaApp.JPG": "/Portfolio-Manash/static/media/WeaApp.504592286333e2461fcf.JPG",
+    "static/media/PerApp.JPG": "/Portfolio-Manash/static/media/PerApp.b52453e6aa6560aa1bcd.JPG",
+    "static/media/Voice.JPG": "/Portfolio-Manash/static/media/Voice.a4f1e9ccef24d66ae131.JPG",
+    "static/media/NoteApp.JPG": "/Portfolio-Manash/static/media/NoteApp.2d7d64d6b3cea5a3f747.JPG",
+    "static/media/cv.pdf": "/Portfolio-Manash/static/media/cv.9be094dbff44a8d8cea6.pdf",
+    "index.html": "/Portfolio-Manash/index.html",
+    "main.5629387f.css.map": "/Portfolio-Manash/static/css/main.5629387f.css.map",
+    "main.9dbe5232.js.map": "/Portfolio-Manash/static/js/main.9dbe5232.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5629387f.css",
+    "static/js/main.9dbe5232.js"
+  ]
+}
