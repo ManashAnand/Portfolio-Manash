@@ -36,12 +36,12 @@ const About = () => {
               <article className="about__card">
                 <RiProjectorFill className='about__icon'/>
                 <h5>Projects</h5>
-                <small>18+ Completed</small>
+                <small>20+ Completed</small>
               </article>
           </div>
 
           <p>
-          I am a Front-end Developer with 1+ years experience.<br/>I work to make a better web, one that is fast, easy to use, beautiful, accessible to all, and frustration-free.<br/>My main experience is in front-end development but I also have a keen interest for design and competitive coding .
+          I am a Full Stack Developer with 1+ years experience.<br/>I work to make better web Apps, one that is fast, easy to use, beautiful, accessible to all, and frustration-free.<br/>My main experience is in Full Stack development but I also have a keen interest for design and competitive coding .
           </p>
 
           <a href="#contact" className="btn btn-primary">Let's Talk</a>

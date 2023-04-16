@@ -56,8 +56,8 @@ const Services = () => {
             <p>I also have interest in Competitive Coding</p> 
             </li>
             <li> 
-            <BiCheck className='service__list-icon'/>
-            <p>I also planning to do Freelancing</p> 
+            <BiCheck className='service__list-icon' style={{width:"40px"}}/>
+            <p>Practiced 600+ questions in platform like GeekforGeeks,leetcode,codechef and codeforces</p> 
             </li>
            
           </ul>

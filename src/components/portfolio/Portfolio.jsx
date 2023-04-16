@@ -1,46 +1,47 @@
 import React from 'react'
 import './portfolio.css'
-import NoteApp from '../../assests/NoteApp.JPG'
-import WeaApp from '../../assests/WeaApp.JPG'
-import perApp from '../../assests/PerApp.JPG'
-import rushApp from '../../assests/Rush.JPG'
-import voiceApp from '../../assests/Voice.JPG'
-import newApp from '../../assests/newsApp.JPG'
+import Ecommerce from '../../assests/Ecommerce.png'
+import crypto from '../../assests/crypto.png'
+import crossGrain from '../../assests/crossGrain.png'
+import newsApp from '../../assests/newsApp.JPG'
+import taskify from '../../assests/taskify.png'
+import dine from '../../assests/dine.png'
+// import Ecommerce from '../../assests/Ecommerce.png'
 
 const data = [
   {
     id:1,
-    image: NoteApp,
-    title: 'Note App',
-    github: "https://manashanand.github.io/Note-app/",
+    image: Ecommerce,
+    title: 'Ecommerce App',
+    github: "https://github.com/ManashAnand/Ecommerce-app",
   },
   {
     id:2,
-    image: WeaApp,
-    title: 'Weather App',
-    github: "https://manashanand.github.io/Weather-App/",
+    image: crypto,
+    title: 'Crypto Tracker',
+    github: "https://github.com/ManashAnand/Crypto_Tracker",
   },
   {
     id:3,
-    image: perApp,
-    title: 'Personality Commentor',
-    github: "https://manashanand.github.io/Personality-Commentor/",
+    image: crossGrain,
+    title: 'CrossGrain',
+    github: "https://github.com/ManashAnand/CrossGrain",
   },
   {
     id:4,
-    image: rushApp,
-    title: 'Rush Race',
-    github: "https://manashanand.github.io/Rush-Race/",
+    image: taskify,
+    title: 'Taskify',
+    github: "https://github.com/ManashAnand/taskify",
   },
   {
     id:5,
-    image: voiceApp,
-    title: 'The Voicinator',
-    github: "https://manashanand.github.io/The-Voicinator/",
+    image: dine,
+    title: 'Dine Me',
+    github: "https://github.com/ManashAnand/DineMe",
   },
   {
     id:6,
-    image: newApp,
+    image: newsApp,
     title: 'News app',
     github: "https://github.com/ManashAnand/NewsApp",
   },
