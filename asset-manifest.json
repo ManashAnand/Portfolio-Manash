@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio-Manash/static/css/main.5629387f.css",
-    "main.js": "/Portfolio-Manash/static/js/main.0fa27c28.js",
+    "main.js": "/Portfolio-Manash/static/js/main.e36300f5.js",
     "static/media/dine.png": "/Portfolio-Manash/static/media/dine.3a2806c2e5a620af01bb.png",
     "static/media/crossGrain.png": "/Portfolio-Manash/static/media/crossGrain.8c548ce7ab45eca5f3fd.png",
     "static/media/crypto.png": "/Portfolio-Manash/static/media/crypto.4f52bf385fa21ea1a9f8.png",
@@ -9,14 +9,14 @@
     "static/media/me-about.jpg": "/Portfolio-Manash/static/media/me-about.4350b60a70dc2640b3f5.jpg",
     "static/media/newsApp.JPG": "/Portfolio-Manash/static/media/newsApp.23517a6ff27a1313847f.JPG",
     "static/media/me.png": "/Portfolio-Manash/static/media/me.b36109f08a261c176edc.png",
-    "static/media/cv.pdf": "/Portfolio-Manash/static/media/cv.76cee000a5ceb3b58d8d.pdf",
+    "static/media/cv.pdf": "/Portfolio-Manash/static/media/cv.7be5b2c4c382a95c63f1.pdf",
     "static/media/taskify.png": "/Portfolio-Manash/static/media/taskify.1b6a9aa2d39bdc1522fe.png",
     "index.html": "/Portfolio-Manash/index.html",
     "main.5629387f.css.map": "/Portfolio-Manash/static/css/main.5629387f.css.map",
-    "main.0fa27c28.js.map": "/Portfolio-Manash/static/js/main.0fa27c28.js.map"
+    "main.e36300f5.js.map": "/Portfolio-Manash/static/js/main.e36300f5.js.map"
   },
   "entrypoints": [
     "static/css/main.5629387f.css",
-    "static/js/main.0fa27c28.js"
+    "static/js/main.e36300f5.js"
   ]
 }
