@@ -23,7 +23,7 @@ const Experience = () => {
                 <HiBadgeCheck className="experience__details-icon"/>
                 <div>
                   <h4>CSS</h4>
-                  <small className='text-light'>Intermediate</small>
+                  <small className='text-light'>Experienced</small>
                 </div>
             </article>
             <article className="experience__details">
@@ -37,21 +37,21 @@ const Experience = () => {
                 <HiBadgeCheck className="experience__details-icon"/>
                 <div>
                   <h4>React Js</h4>
-                  <small className='text-light'>Intermediate</small>    
+                  <small className='text-light'>Experienced</small>    
                 </div>
             </article>
             <article className="experience__details">
                 <HiBadgeCheck className="experience__details-icon"/>
                 <div>
-                    <h4>BootStrap</h4>
-                    <small className='text-light'>Experienced</small>
+                    <h4>Next Js</h4>
+                    <small className='text-light'>Intermediate</small>
                 </div>
             </article>
             <article className="experience__details">
                 <HiBadgeCheck className="experience__details-icon"/>
                 <div>
-                    <h4>Framer Motion</h4>
-                    <small className='text-light'>Experienced</small>
+                    <h4>Vue Js</h4>
+                    <small className='text-light'>Intermediate</small>
                 </div>
             </article>
            
@@ -102,7 +102,7 @@ const Experience = () => {
             <article className="experience__details">
                 <HiBadgeCheck className="experience__details-icon"/>
                 <div>
-                  <h4>JAVA</h4>
+                  <h4>Python</h4>
                   <small className='text-light'>Beginner</small>
                 </div>
             </article>
